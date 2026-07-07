@@ -34,3 +34,4 @@ It's a static site — no build step needed. Either:
 - **Fonts** — loaded from Google Fonts in `index.html` (Anton for headlines, Oswald for body/buttons, Alex Brush for script accents).
 - **Hero headline** — the "BUILT DIFFERENT / Bred to Excel" text is baked into `images/hero.png`, not HTML. To change the wording, replace the image.
 - The layout is capped at 560px wide (`.wrap` in `style.css`) and centered on desktop, matching the mobile-first design.
+Test
